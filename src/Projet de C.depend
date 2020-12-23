@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576948416 source:c:\users\liloke\desktop\projet c\src\projet de c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<C:\Users\LILOKE\Desktop\projet C\include\SDL.h>
+
